@@ -1,6 +1,6 @@
 # alfred-localhost
 
-An alfred workflow for quickly opening http://localhost URLs on a specific port. Useful when running local development servers.
+An Alfred Workflow for quickly opening http://localhost URLs on a specific port. Useful when running local development servers.
 
 ## Prerequisites
 
